@@ -1,0 +1,214 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{JHEP1}{article}{}
+      \name{author}{2}{}{%
+        {{hash=acfcac2c1dc19e8313a6b27263ece90e}{%
+           family={Duplančić},
+           familyi={D\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=4d7b24c67ce2aeff79f94cc22722622a}{%
+           family={Melić},
+           familyi={M\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{1c8df368d54da13889839c4f2317261a}
+      \strng{fullhash}{1c8df368d54da13889839c4f2317261a}
+      \strng{bibnamehash}{1c8df368d54da13889839c4f2317261a}
+      \strng{authorbibnamehash}{1c8df368d54da13889839c4f2317261a}
+      \strng{authornamehash}{1c8df368d54da13889839c4f2317261a}
+      \strng{authorfullhash}{1c8df368d54da13889839c4f2317261a}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of High Energy Physics}
+      \field{title}{J. High Energ. Phys. 2015, 138}
+      \field{volume}{2015}
+      \field{year}{2015}
+      \field{pages}{138}
+      \range{pages}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1007/JHEP11(2015)138
+      \endverb
+    \endentry
+    \entry{Kallen1952}{article}{}
+      \name{author}{1}{}{%
+        {{hash=d397a3a5fd8bc6d51094e02b9bcbb8a3}{%
+           family={Källén},
+           familyi={K\bibinitperiod},
+           given={Gunnar},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{d397a3a5fd8bc6d51094e02b9bcbb8a3}
+      \strng{fullhash}{d397a3a5fd8bc6d51094e02b9bcbb8a3}
+      \strng{bibnamehash}{d397a3a5fd8bc6d51094e02b9bcbb8a3}
+      \strng{authorbibnamehash}{d397a3a5fd8bc6d51094e02b9bcbb8a3}
+      \strng{authornamehash}{d397a3a5fd8bc6d51094e02b9bcbb8a3}
+      \strng{authorfullhash}{d397a3a5fd8bc6d51094e02b9bcbb8a3}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Helvetica Physica Acta}
+      \field{title}{On the Definition of the Renormalization Constants in Quantum Electrodynamics}
+      \field{volume}{25}
+      \field{year}{1952}
+      \field{pages}{417}
+      \range{pages}{1}
+      \verb{doi}
+      \verb https://doi.org/10.5169/seals-112316
+      \endverb
+    \endentry
+    \entry{Lehmann1954}{article}{}
+      \name{author}{1}{}{%
+        {{hash=4445086c2ffbc59016d02fa1819750f9}{%
+           family={Lehmann},
+           familyi={L\bibinitperiod},
+           given={Harry},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{4445086c2ffbc59016d02fa1819750f9}
+      \strng{fullhash}{4445086c2ffbc59016d02fa1819750f9}
+      \strng{bibnamehash}{4445086c2ffbc59016d02fa1819750f9}
+      \strng{authorbibnamehash}{4445086c2ffbc59016d02fa1819750f9}
+      \strng{authornamehash}{4445086c2ffbc59016d02fa1819750f9}
+      \strng{authorfullhash}{4445086c2ffbc59016d02fa1819750f9}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0029-6341}
+      \field{journaltitle}{Nuovo Cimento}
+      \field{number}{4}
+      \field{title}{Über Eigenschaften von Ausbreitungsfunktionen und Renormierungskonstanten quantisierter Felder}
+      \field{volume}{11}
+      \field{year}{1954}
+      \field{pages}{342\bibrangedash 357}
+      \range{pages}{16}
+      \verb{doi}
+      \verb https://doi.org/10.1007/bf02783624
+      \endverb
+    \endentry
+    \entry{BalitskyBraun1989}{article}{}
+      \name{author}{2}{}{%
+        {{hash=d0797f5995e03c2a1ab4acfdafcf1e8b}{%
+           family={Balitsky},
+           familyi={B\bibinitperiod},
+           given={I.\bibnamedelimi I.},
+           giveni={I\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=51b1d686b80ea8edf7ccc2335216ef66}{%
+           family={Braun},
+           familyi={B\bibinitperiod},
+           given={V.\bibnamedelimi M.},
+           giveni={V\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{f0490092f0ec0d6212889db102cd495e}
+      \strng{fullhash}{f0490092f0ec0d6212889db102cd495e}
+      \strng{bibnamehash}{f0490092f0ec0d6212889db102cd495e}
+      \strng{authorbibnamehash}{f0490092f0ec0d6212889db102cd495e}
+      \strng{authornamehash}{f0490092f0ec0d6212889db102cd495e}
+      \strng{authorfullhash}{f0490092f0ec0d6212889db102cd495e}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nuclear Physics B}
+      \field{title}{Nucl. Phys. B 311, 541}
+      \field{volume}{311}
+      \field{year}{1989}
+      \field{pages}{541}
+      \range{pages}{1}
+    \endentry
+    \entry{BraunFilyanov1990}{article}{}
+      \name{author}{2}{}{%
+        {{hash=51b1d686b80ea8edf7ccc2335216ef66}{%
+           family={Braun},
+           familyi={B\bibinitperiod},
+           given={V.\bibnamedelimi M.},
+           giveni={V\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=34f06e3d8d72d49a317efecb9d30bf37}{%
+           family={Filyanov},
+           familyi={F\bibinitperiod},
+           given={I.\bibnamedelimi E.},
+           giveni={I\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{d521eb88a6db45ac901fa0ec3cb94be9}
+      \strng{fullhash}{d521eb88a6db45ac901fa0ec3cb94be9}
+      \strng{bibnamehash}{d521eb88a6db45ac901fa0ec3cb94be9}
+      \strng{authorbibnamehash}{d521eb88a6db45ac901fa0ec3cb94be9}
+      \strng{authornamehash}{d521eb88a6db45ac901fa0ec3cb94be9}
+      \strng{authorfullhash}{d521eb88a6db45ac901fa0ec3cb94be9}
+      \field{sortinit}{5}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Zeitschrift für Physik C}
+      \field{title}{Z. Phys. C 48, 239}
+      \field{volume}{48}
+      \field{year}{1990}
+      \field{pages}{239}
+      \range{pages}{1}
+    \endentry
+    \entry{BallBraunLenz2006}{article}{}
+      \name{author}{3}{}{%
+        {{hash=177e810bb1129787c52b2271fab36e3f}{%
+           family={Ball},
+           familyi={B\bibinitperiod},
+           given={Patricia},
+           giveni={P\bibinitperiod}}}%
+        {{hash=68f809c2582a5c8db124cf0bccd2b4fe}{%
+           family={Braun},
+           familyi={B\bibinitperiod},
+           given={Vladimir\bibnamedelima M.},
+           giveni={V\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=78f5b67b57bc34d051776641d6eb7f2b}{%
+           family={Lenz},
+           familyi={L\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{2de1a501e8968cb53238ea6a6687b558}
+      \strng{fullhash}{2de1a501e8968cb53238ea6a6687b558}
+      \strng{bibnamehash}{2de1a501e8968cb53238ea6a6687b558}
+      \strng{authorbibnamehash}{2de1a501e8968cb53238ea6a6687b558}
+      \strng{authornamehash}{2de1a501e8968cb53238ea6a6687b558}
+      \strng{authorfullhash}{2de1a501e8968cb53238ea6a6687b558}
+      \field{sortinit}{6}
+      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of High Energy Physics}
+      \field{title}{Higher-twist distribution amplitudes of the K meson in QCD}
+      \field{volume}{2006}
+      \field{year}{2006}
+      \field{pages}{JHEP05(2006)004}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1088/1126-6708/2006/05/004
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
